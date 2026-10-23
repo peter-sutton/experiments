@@ -16,9 +16,7 @@ p    {color: black;}
 <p/>
 
 <p style="text-align: center">
-<a href="https://peter-sutton.github.io/experiments/fence/item1div">
-  <button fill = gray>  Next  <button/>
-<a/>
+<a href="https://peter-sutton.github.io/experiments/fence/item1div" class="button">Next</a>
 <p/>
 
   <!-- <p>...After the script. user</p> -->
