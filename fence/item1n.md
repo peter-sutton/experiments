@@ -16,7 +16,7 @@ p    {color: black;}
 <p/>
 
 <p style="text-align: center">
-<a href="https://peter-sutton.github.io/fence/item1div">
+<a href="https://peter-sutton.github.io/experiments/fence/item1div">
   <button fill = gray> <h3 style="font-size: value;"> Next <h3/> <button/>
 <a/>
 <p/>
