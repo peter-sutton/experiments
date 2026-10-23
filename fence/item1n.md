@@ -8,8 +8,8 @@ display: none;
 }
 
 #pics {
-width:55vw;
-height:55vw;
+width:60vw;
+height:60vw;
 }
 
 </style>
@@ -35,7 +35,7 @@ $(document).ready(function() {
 <body>
 
 <div id="pics" style="text-align: center">
-<img src="images/Alined02single.jpg" style="width: 40vw; min-width: 330px;" style="margin: 15px 0px 0px 20px;" class="wp-image-88" style="margin: 15px 0px 0px 20px;" align = center id="picOne" />
+<img src="images/Alined01.jpg" style="width: 40vw; min-width: 330px;" style="margin: 15px 0px 0px 20px;" class="wp-image-88" style="margin: 15px 0px 0px 20px;" align = center id="picOne" />
 
 
 <p id="pics" style="text-align: center">
