@@ -37,8 +37,9 @@ $(document).ready(function() {
 <div id="pics" style="text-align: center">
 <img src="images/Alined02single.jpg" style="width: 40vw; min-width: 330px;" style="margin: 15px 0px 0px 20px;" class="wp-image-88" style="margin: 15px 0px 0px 20px;" align = center id="picOne" />
 
-<p style="text-align: center">
-<a id="picTwo" href="https://peter-sutton.github.io/experiments/fence/item1div" class="button"><h3>Next<h3/></a>
+
+<p id="pics" style="text-align: center">
+<a id="picTwo" href="https://peter-sutton.github.io/experiments/fence/item1div" class="button">Next</a>
 
   <!-- <p>...After the script. user</p> -->
 
