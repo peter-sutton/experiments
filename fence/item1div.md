@@ -27,7 +27,7 @@ Schau was sich verändert hat! </h3>
 
 <script type="text/javascript">
 $(document).ready(function() {
-    $('#picOne').delay(000).fadeIn(000);
+    $('#picOne').delay(2000).fadeIn(1500);
     $('#picTwo').delay(5000).fadeIn(1500);
     $('#picThree').delay(6000).fadeIn(1500);
 });
