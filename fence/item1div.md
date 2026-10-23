@@ -1,13 +1,6 @@
 <!-- <!DOCTYPE HTML> -->
 <html>
 
-<!-- <style>
-h1 {text-align: center;}
-p {text-align: center;}
-div {text-align: center;}
-</style> -->
-
-
 <style>
 #picOne, #picTwo, #picThree {
 position:sticky;
@@ -15,8 +8,8 @@ display: none;
 }
 
 #pics {
-width:55vw;
-height:55vw;
+width:60vw;
+height:60vw;
 }
 
 </style>
@@ -34,7 +27,7 @@ Schau was sich verändert hat! </h3>
 
 <script type="text/javascript">
 $(document).ready(function() {
-    $('#picOne').delay(1000).fadeIn(1500);
+    $('#picOne').delay(000).fadeIn(000);
     $('#picTwo').delay(5000).fadeIn(1500);
     $('#picThree').delay(6000).fadeIn(1500);
 });
