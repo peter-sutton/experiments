@@ -1,5 +1,11 @@
 <html>
+<style>
+body {background-color: white;}
+h3   {color: black;}
+p    {color: black;}
+</style>
 <body>
+
 	
 <p style="text-align: center">
 <h3 style="font-size: value;text-align: center"> Hier ist das Dorf Siebenschlaf mit einer ganz tollen Nachbarschaft. </h3>
@@ -11,7 +17,7 @@
 
 <p style="text-align: center">
 <a href="https://peter-sutton.github.io/fence/item1div">
-  <button> <h3 style="font-size: value;"> Next <h3/> <button/>
+  <button fill = gray> <h3 style="font-size: value;"> Next <h3/> <button/>
 <a/>
 <p/>
 
@@ -19,5 +25,3 @@
 
 <body/>
 <html/>
-
-
